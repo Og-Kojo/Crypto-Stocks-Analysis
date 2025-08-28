@@ -40,4 +40,5 @@ The project demonstrates skills in **data engineering, database management, and 
 
 ---
 
-## 🔹 Folder Structure
+![Dashboard Screenshot](images/dashboard.png)
+
