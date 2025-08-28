@@ -22,7 +22,8 @@ The project demonstrates skills in **data engineering, database management, and 
    - Used **DAX measures** for KPIs like growth rates, moving averages, and cumulative returns.
    - Designed user-friendly **filters (5D, 3M, 6M, YTD, 1Y, 5Y)**.
 
----
+
+
 
 ## 🔹 Key Features
 - 📈 **Top 20 Cryptocurrencies**: price trends, volume, and volatility.
@@ -40,5 +41,5 @@ The project demonstrates skills in **data engineering, database management, and 
 
 ---
 
-![Dashboard Screenshot](Crypto-Stock-Analysis/images/dashboard.png)
+---<img width="994" height="559" alt="Dashboard" src="https://github.com/user-attachments/assets/338baa1c-8811-4483-ace5-b3753c5bd406" />
 
