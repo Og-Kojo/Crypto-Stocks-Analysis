@@ -40,5 +40,5 @@ The project demonstrates skills in **data engineering, database management, and 
 
 ---
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](Crypto-Stock-Analysis/images/dashboard.png)
 
